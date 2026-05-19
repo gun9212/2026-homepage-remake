@@ -12,7 +12,7 @@ export const ausgconCards: AusgconCard[] = [
   {
     year: '2025',
     title: '2025 AUSGCON',
-    meta: ['2023.06.03', 'AWS 센터필드'],
+    meta: ['2025.09.13', 'AWS 센터필드'],
     imageSrc: '/images/ausgcon/ausgcon-2025.png',
     imageWidth: 1000,
     imageHeight: 500,

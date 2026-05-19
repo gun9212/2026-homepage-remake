@@ -174,9 +174,6 @@ const ArchiveCard = ({ card }: { card: AusgconCard }) => (
       <h3 className="mt-5 text-[24px] font-semibold leading-8 text-slate-950 md:text-[30px] md:leading-[38px]">
         {card.title}
       </h3>
-      <p className="mt-3 text-base font-medium leading-7 text-slate-600">
-        {card.description}
-      </p>
       <div className="mt-5 flex flex-wrap gap-2">
         {card.meta.map(item => (
           <span
